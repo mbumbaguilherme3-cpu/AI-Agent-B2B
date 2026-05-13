@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langgraph
+anthropic
+python-dotenv
+sqlalchemy
+redis
+celery
+google-api-python-client
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
